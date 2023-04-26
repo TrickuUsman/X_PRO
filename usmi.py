@@ -1,2 +1,2 @@
 import ALONE
-ALONE.Main()
+from ALONE import Main().menu()
