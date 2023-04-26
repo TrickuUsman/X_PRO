@@ -1,2 +1,2 @@
 import ALONE
-ALONE import Main().menu()
+usmi.Main()
