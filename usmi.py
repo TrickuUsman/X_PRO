@@ -1,2 +1,2 @@
-import USMII2
+import USMII
 
